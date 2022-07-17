@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user on profil page","User get data profile","SUCCESS","2022-07-17T23:57:32.6713786+07:00[Asia/Bangkok]","0.0","0.72"
+"As a user on profil page","User get my thread","SUCCESS","2022-07-17T23:57:33.3986065+07:00[Asia/Bangkok]","0.0","0.58"
+"As a user on profil page","User delete my thread","SUCCESS","2022-07-17T23:57:33.9875376+07:00[Asia/Bangkok]","0.0","0.58"

@@ -1,0 +1,1 @@
+Feature: As a user on Buat Thread Page

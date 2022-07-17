@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","get all data users","SUCCESS","2022-07-17T23:57:41.3433402+07:00[Asia/Bangkok]","0.0","0.69"
+"User","get data followers details","SUCCESS","2022-07-17T23:57:42.0423636+07:00[Asia/Bangkok]","0.0","0.51"
+"User","get data following details users","SUCCESS","2022-07-17T23:57:42.5594256+07:00[Asia/Bangkok]","0.0","0.56"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user on category thread","User get thread category","SUCCESS","2022-07-17T23:57:38.2515942+07:00[Asia/Bangkok]","0.0","0.67"
+"As a user on category thread","User get all thread","SUCCESS","2022-07-17T23:57:38.9265039+07:00[Asia/Bangkok]","0.0","0.64"
+"As a user on category thread","User get thread by id","SUCCESS","2022-07-17T23:57:39.5712553+07:00[Asia/Bangkok]","0.0","0.57"
+"As a user on category thread","User get thread by kategori","SUCCESS","2022-07-17T23:57:40.1496442+07:00[Asia/Bangkok]","0.0","0.62"
+"As a user on category thread","User get trending thread","SUCCESS","2022-07-17T23:57:40.7784079+07:00[Asia/Bangkok]","0.0","0.55"

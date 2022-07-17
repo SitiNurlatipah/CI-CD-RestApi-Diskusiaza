@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User" skipped="0" tests="3" time="1.76" timestamp="2022-07-17 11:57:41"><testcase name="get all data users"/><testcase name="get data followers details"/><testcase name="get data following details users"/></testsuite>
