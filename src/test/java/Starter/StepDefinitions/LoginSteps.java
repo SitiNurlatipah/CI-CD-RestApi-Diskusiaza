@@ -30,7 +30,7 @@ public class LoginSteps {
     }
 
     @Given("user post login endpoints2")
-    public void postloginendpoints2(){
+    public void postloginendpointss2(){
         post2.postloginendpoint2();
     }
     @When("user login with valid email and unvalid password")
