@@ -33,7 +33,7 @@ public class PostLikeThread {
     @Step
     public void likeUsingThreadId(){
         JSONObject requestBody = new JSONObject();
-        requestBody.put("therad_id",52);
+        requestBody.put("therad_id",46);
         SerenityRest.given().header("Content-Type","application/json").header("Authorization", "Bearer "+token).body(requestBody.toJSONString()).post(postLikeThreadEndpoints());
     }
 
